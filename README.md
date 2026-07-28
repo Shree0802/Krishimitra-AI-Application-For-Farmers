@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# 🌾⚡ # Krishimitra-AI-Application-For-Farmers⚡🌾
+# 🌾⚡ K R I S H I M I T R A &nbsp; A I ⚡🌾
 
 ### 🚀 India's First Centralized Farmer Intelligence Operating System 🚀
 
@@ -322,4 +321,3 @@ This project is developed for academic and research purposes under the IEEE Inte
 ### Made with ❤️ for Indian Farmers 🇮🇳🌾
 
 </div>
-
